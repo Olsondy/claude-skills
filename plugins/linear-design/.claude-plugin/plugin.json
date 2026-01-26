@@ -1,0 +1,40 @@
+{
+  "id": "linear-design",
+  "name": "Linear/Vercel Design Architect",
+  "description": "拒绝平庸的后台界面。强制 AI 遵循 Linear/Vercel 的高信噪比美学，自动生成 1px 细边框、Bento Grid 布局和极客风的等宽数据展示。",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "skills": [
+    {
+      "name": "linear-design",
+      "description": "Linear/Vercel 设计架构师 - Vue/Nuxt Edition"
+    }
+  ],
+  "capabilities": [
+    "high-signal-to-noise-design",
+    "bento-grid-layout",
+    "monospace-data-typography",
+    "anti-blur-principle",
+    "strict-monochrome",
+    "ui-design",
+    "component-design",
+    "design-systems"
+  ],
+  "tags": [
+    "design",
+    "ui",
+    "linear",
+    "vercel",
+    "vue",
+    "nuxt",
+    "tailwindcss",
+    "dashboard",
+    "bento-grid"
+  ],
+  "tech_stack": [
+    "Vue 3",
+    "Nuxt 3",
+    "Tailwind CSS",
+    "Shadcn UI"
+  ]
+}
