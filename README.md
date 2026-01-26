@@ -1,11 +1,11 @@
-# My Skills - Claude 插件集
+# Skills - Claude 插件集
 
 这是一个自定义的 Claude Skill 插件集合，用于扩展 Claude 的能力。
 
 ## 📁 目录结构
 
 ```
-my-skills/
+skills/
 ├── .claude-plugin/
 │   └── marketplace.json      # 核心：插件市场清单
 ├── plugins/
@@ -23,7 +23,7 @@ my-skills/
 ### 1. Linear Design
 
 **版本**: 1.0.0
-**作者**: Your Name
+**作者**: Olsond
 **描述**: 帮助设计符合 Linear 风格的用户界面和组件
 
 **功能**:
