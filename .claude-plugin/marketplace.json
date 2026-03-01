@@ -15,6 +15,23 @@
         "strict-monochrome"
       ],
       "tech_stack": ["Vue 3", "Nuxt 3", "Tailwind CSS", "Shadcn UI"]
+    },
+    {
+      "id": "vibe-core-prime",
+      "name": "VibeCore Prime",
+      "description": "专属 Vibecoding 核心主控协议。强制 AI 以讨论优先、安全确认、极简上下文、精准执行的方式辅助直觉式编程，确保零侵入修改与文档同步闭环。",
+      "version": "1.0.0",
+      "author": "Olsond",
+      "path": "plugins/vibe-core-prime",
+      "capabilities": [
+        "discussion-first",
+        "security-confirmation",
+        "minimal-context",
+        "precise-execution",
+        "zero-intrusion-modification",
+        "auto-validation",
+        "documentation-sync"
+      ]
     }
   ]
 }
